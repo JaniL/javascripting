@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "JOHDANTO"
+        , "VARIABLES":              "MUUTTUJAT"
+        , "STRINGS":                "MERKKIJONOT"
+        , "STRING LENGTH":          "MERKKIJONON PITUUS"
+        , "REVISING STRINGS":       "MERKKIJONOJEN KÄÄNTÄMINEN"
+        , "NUMBERS":                "NUMEROT"
+        , "ROUNDING NUMBERS":       "NUMEROIDEN PYÖRISTYS"
+        , "NUMBER TO STRING":       "NUMERO MERKKIJONOKSI"
+        , "IF STATEMENT":           "JOS-EHTO"
+        , "FOR LOOP":               "FOR-TOISTOLAUSE"
+        , "ARRAYS":                 "TAULUKOT"
+        , "ARRAY FILTERING":        "TAULUKOIDEN SUODATUS"
+        , "ACCESSING ARRAY VALUES": "TAULUKON ARVOJEN LUKEMINEN"
+        , "LOOPING THROUGH ARRAYS": "TAULUKON LÄPIKÄYNTI"
+        , "OBJECTS":                "OLIOT"
+        , "OBJECT PROPERTIES":      "OLION ATTRIBUUTIT"
+        , "FUNCTIONS":              "FUNKTIOT"
+        , "FUNCTION ARGUMENTS":     "FUNKTION PARAMETRIT"
+        , "SCOPE":                  "NÄKYVYYSALUE"
+    }
+}
